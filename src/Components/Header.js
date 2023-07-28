@@ -6,7 +6,7 @@ export default function Header(){
         <div>
           {/* Header */}
           <header className="bg-dark py-5">
-            <img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/Wireless/katariy/Portkey/Stripes/PC_4.jpg" />
+            <img style={{maxWidth:"100%"}} src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/Wireless/katariy/Portkey/Stripes/PC_4.jpg" />
           </header>
         </div>
     )
